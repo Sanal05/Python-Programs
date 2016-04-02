@@ -5,6 +5,6 @@
 
 Just clone the reposityory. And make the python Code run on your terminal or in any IDE.
 
-In terminal,
+In terminal type,
        python takeMeABreak.py
  to make the code run.
